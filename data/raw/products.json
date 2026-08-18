@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Laptop",
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Keyboard",
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Office Chair",
+    "category": "Furniture"
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Desk",
+    "category": "Furniture"
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Monitor",
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Mouse",
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P007",
+    "product_name": "Bookshelf",
+    "category": "Furniture"
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Webcam",
+    "category": "Electronics"
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Desk Lamp",
+    "category": "Office Supplies"
+  },
+  {
+    "product_id": "P010",
+    "product_name": "Notebook Set",
+    "category": "Office Supplies"
+  }
+]

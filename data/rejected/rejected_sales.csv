@@ -1,0 +1,9 @@
+order_id,raw_record,reason
+1023,"{""order_id"": ""1023"", ""order_date"": ""2026-01-12"", ""customer_id"": ""C999"", ""product_id"": ""P001"", ""quantity"": ""1"", ""unit_price"": ""1200.00"", ""discount_rate"": ""0.10""}",Unknown customer ID
+1024,"{""order_id"": ""1024"", ""order_date"": ""2026-01-12"", ""customer_id"": ""C003"", ""product_id"": ""P999"", ""quantity"": ""1"", ""unit_price"": ""200.00"", ""discount_rate"": ""0.05""}",Unknown product ID
+1025,"{""order_id"": ""1025"", ""order_date"": ""2026-01-13"", ""customer_id"": ""C004"", ""product_id"": ""P004"", ""quantity"": ""0"", ""unit_price"": ""500.00"", ""discount_rate"": ""0.10""}",Quantity must be greater than zero
+1026,"{""order_id"": ""1026"", ""order_date"": ""2026-01-13"", ""customer_id"": ""C005"", ""product_id"": ""P005"", ""quantity"": ""1"", ""unit_price"": ""-300.00"", ""discount_rate"": ""0.10""}",Unit price must be greater than zero
+1027,"{""order_id"": ""1027"", ""order_date"": ""01/14/2026"", ""customer_id"": ""C006"", ""product_id"": ""P006"", ""quantity"": ""2"", ""unit_price"": ""40.00"", ""discount_rate"": ""0.00""}",Invalid order_date format
+1028,"{""order_id"": ""1028"", ""order_date"": ""2026-01-14"", ""customer_id"": ""C007"", ""product_id"": ""P007"", ""quantity"": ""1"", ""unit_price"": ""180.00"", ""discount_rate"": ""1.25""}",Discount rate must be between 0 and 1
+1029,"{""order_id"": ""1029"", ""order_date"": ""2026-01-15"", ""customer_id"": ""C008"", ""product_id"": ""P008"", ""quantity"": ""-2"", ""unit_price"": ""90.00"", ""discount_rate"": ""0.10""}",Quantity must be greater than zero
+1030,"{""order_id"": ""1030"", ""order_date"": ""2026-01-15"", ""customer_id"": ""C009"", ""product_id"": ""P009"", ""quantity"": ""abc"", ""unit_price"": ""35.00"", ""discount_rate"": ""0.05""}",invalid literal for int() with base 10: 'abc'

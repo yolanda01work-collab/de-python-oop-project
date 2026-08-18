@@ -1,0 +1,52 @@
+[
+  {
+    "customer_id": "C001",
+    "customer_name": "Alice Johnson",
+    "region": "East"
+  },
+  {
+    "customer_id": "C002",
+    "customer_name": "Bob Smith",
+    "region": "West"
+  },
+  {
+    "customer_id": "C003",
+    "customer_name": "Carol Lee",
+    "region": "South"
+  },
+  {
+    "customer_id": "C004",
+    "customer_name": "David Chen",
+    "region": "North"
+  },
+  {
+    "customer_id": "C005",
+    "customer_name": "Emma Wilson",
+    "region": "East"
+  },
+  {
+    "customer_id": "C006",
+    "customer_name": "Frank Miller",
+    "region": "West"
+  },
+  {
+    "customer_id": "C007",
+    "customer_name": "Grace Kim",
+    "region": "South"
+  },
+  {
+    "customer_id": "C008",
+    "customer_name": "Henry Davis",
+    "region": "North"
+  },
+  {
+    "customer_id": "C009",
+    "customer_name": "Isabella Brown",
+    "region": "East"
+  },
+  {
+    "customer_id": "C010",
+    "customer_name": "Jack Taylor",
+    "region": "West"
+  }
+]
